@@ -44,8 +44,8 @@
       <file leaf-file-name="task_poker_layout.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task_poker_layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8018868" vertical-offset="3460" max-vertical-offset="4020">
-              <caret line="250" column="43" selection-start-line="250" selection-start-column="43" selection-end-line="250" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.28301886" vertical-offset="0" max-vertical-offset="4095">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -64,8 +64,8 @@
       <file leaf-file-name="exer_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exer_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.958333" vertical-offset="1510" max-vertical-offset="2085">
-              <caret line="115" column="19" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="94" />
+            <state vertical-scroll-proportion="-73.75" vertical-offset="0" max-vertical-offset="2355">
+              <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -343,16 +343,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exer_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.958333" vertical-offset="1510" max-vertical-offset="2085">
-          <caret line="115" column="19" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="94" />
+        <state vertical-scroll-proportion="-73.75" vertical-offset="0" max-vertical-offset="2355">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task_poker_layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8018868" vertical-offset="3460" max-vertical-offset="4020">
-          <caret line="250" column="43" selection-start-line="250" selection-start-column="43" selection-end-line="250" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.28301886" vertical-offset="0" max-vertical-offset="4095">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
